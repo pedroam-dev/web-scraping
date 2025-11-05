@@ -1,0 +1,227 @@
+[
+    {
+        "titulo": "Apple iPhone 17 Pro Max (256 GB) - Naranja cósmico - Sólo eSIM - Distribuidor Autorizado",
+        "precio": "$ 30,999",
+        "url": "https://www.mercadolibre.com.mx/apple-iphone-17-pro-max-256-gb-naranja-cosmico-solo-esim-distribuidor-autorizado/p/MLM1054106936#polycard_client=search-nordic&search_layout=stack&position=1&type=product&tracking_id=12c415b8-4d10-4e80-bf33-0bc11f18f773&wid=MLM4056190190&sid=search",
+        "posicion": 1,
+        "metodo_extraccion": {
+            "titulo": "attr_title",
+            "precio": "javascript_precio_mx",
+            "url": "tag_a"
+        },
+        "html_debug": {
+            "outer_html": "<li class=\"ui-search-layout__item\"><div class=\"ui-search-result__wrapper\"><div class=\"poly-card poly-card--list poly-card--xlarge poly-card--CORE\"><div class=\"poly-card__portada\"><span class=\"poly-component__image-overlay\"></span><img title=\"Apple iPhone 17 Pro Max (256 GB) - Naranja cósmico - Sólo eSIM - Distribuidor Autorizado\" width=\"150\" height=\"150\" aria-hidden=\"true\" decoding=\"sync\" src=\"https://http2.mlstatic.com/D_Q_NP_2X_841813-MLA96120291343_102025-V.webp\" class=\"poly-component__picture\" fetchpriority=\"high\" alt=\"Apple iPhone 17 Pro Max (256 GB) - Naranja cósmico - Sólo eSIM - Distribuidor Autorizado\"></div><div class=\"poly-card__content\"><span style=\"color:#FFFFFF;background-color:#1A1A1A\" class=\"poly-component__highlight\">APPLE TIENDA OFICIAL</span><h3 class=\"poly-component__title-wrapper\"><a href=\"https://www.mercadolibre.com.mx/apple-iphone-17-pro-max-256-gb-naranja-cosmico-solo-esim-distribuidor-autorizado/p/MLM1054106936#polycard_client=search-nordic&amp;search_layout=s",
+            "class": "ui-search-layout__item"
+        }
+    },
+    {
+        "titulo": "Apple iPhone 17 Pro (256 GB) - Azul profundo - Sólo eSIM - Distribuidor Autorizado",
+        "precio": "$ 28,499",
+        "url": "https://www.mercadolibre.com.mx/apple-iphone-17-pro-256-gb-azul-profundo-solo-esim-distribuidor-autorizado/p/MLM1054106836#polycard_client=search-nordic&search_layout=stack&position=2&type=product&tracking_id=12c415b8-4d10-4e80-bf33-0bc11f18f773&wid=MLM2443618305&sid=search",
+        "posicion": 2,
+        "metodo_extraccion": {
+            "titulo": "attr_title",
+            "precio": "javascript_precio_mx",
+            "url": "tag_a"
+        },
+        "html_debug": {
+            "outer_html": "<li class=\"ui-search-layout__item\"><div class=\"ui-search-result__wrapper\"><div class=\"poly-card poly-card--list poly-card--xlarge poly-card--CORE\"><div class=\"poly-card__portada\"><div class=\"poly-component__variations-compacted\"><span class=\"andes-visually-hidden\">Disponible en 2 colores</span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#1717FF\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#FF8C00\"></span></div><span class=\"poly-component__image-overlay\"></span><img title=\"Apple iPhone 17 Pro (256 GB) - Azul profundo - Sólo eSIM - Distribuidor Autorizado\" width=\"150\" height=\"150\" aria-hidden=\"true\" decoding=\"sync\" src=\"https://http2.mlstatic.com/D_Q_NP_2X_793903-MLA95400685408_102025-V.webp\" class=\"poly-component__picture\" fetchpriority=\"high\" alt=\"Apple iPhone 17 Pro (256 GB) - Azul profundo - Sólo eSIM - Distribuidor Autorizado\"></div><div class=\"poly-card__content\"><span style=\"color:",
+            "class": "ui-search-layout__item"
+        }
+    },
+    {
+        "titulo": "Apple iPhone 17 (256 GB) - Blanco",
+        "precio": "$ 21,999",
+        "url": "https://www.mercadolibre.com.mx/apple-iphone-17-256-gb-blanco/p/MLM55309009#polycard_client=search-nordic&search_layout=stack&position=3&type=product&tracking_id=12c415b8-4d10-4e80-bf33-0bc11f18f773&wid=MLM2520563075&sid=search",
+        "posicion": 3,
+        "metodo_extraccion": {
+            "titulo": "attr_title",
+            "precio": "javascript_precio_mx",
+            "url": "tag_a"
+        },
+        "html_debug": {
+            "outer_html": "<li class=\"ui-search-layout__item\"><div class=\"ui-search-result__wrapper\"><div class=\"poly-card poly-card--list poly-card--xlarge poly-card--CORE\"><div class=\"poly-card__portada\"><div class=\"poly-component__variations-compacted\"><span class=\"andes-visually-hidden\">Disponible en 4 colores</span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#FFFFFF\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#9F00FF\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#000000\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#0DA600\"></span></div><span class=\"poly-component__image-overlay\"></span><img title=\"Apple iPhone 17 (256 GB) - Blanco\" width=\"150\" height=\"150\" aria-hidden=\"true\" decoding=\"async\" src=\"https://http2.mlstatic.com/D_Q_NP_2X_736611-MLA95978821612_102025-V.webp\" class=\"poly-component__picture\" a",
+            "class": "ui-search-layout__item"
+        }
+    },
+    {
+        "titulo": "Apple iPhone 17 (256 GB) - Negro",
+        "precio": "$ 21,999",
+        "url": "https://www.mercadolibre.com.mx/apple-iphone-17-256-gb-negro/p/MLM55308917#polycard_client=search-nordic&search_layout=stack&position=4&type=product&tracking_id=12c415b8-4d10-4e80-bf33-0bc11f18f773&wid=MLM2520459587&sid=search",
+        "posicion": 4,
+        "metodo_extraccion": {
+            "titulo": "attr_title",
+            "precio": "javascript_precio_mx",
+            "url": "tag_a"
+        },
+        "html_debug": {
+            "outer_html": "<li class=\"ui-search-layout__item\"><div class=\"ui-search-result__wrapper\"><div class=\"poly-card poly-card--list poly-card--xlarge poly-card--CORE\"><div class=\"poly-card__portada\"><div class=\"poly-component__variations-compacted\"><span class=\"andes-visually-hidden\">Disponible en 3 colores</span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#9F00FF\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#000000\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#0DA600\"></span></div><span class=\"poly-component__image-overlay\"></span><img title=\"Apple iPhone 17 (256 GB) - Negro\" width=\"150\" height=\"150\" aria-hidden=\"true\" decoding=\"async\" src=\"https://http2.mlstatic.com/D_Q_NP_2X_785379-MLA95976206385_102025-V.webp\" class=\"poly-component__picture\" alt=\"Apple iPhone 17 (256 GB) - Negro\"></div><div class=\"poly-card__content\"><h3 class=\"poly-component__title",
+            "class": "ui-search-layout__item"
+        }
+    },
+    {
+        "titulo": "Apple iPhone 17 (256 GB) - Negro - Sólo eSIM",
+        "precio": "$ 21,599",
+        "url": "https://www.mercadolibre.com.mx/apple-iphone-17-256-gb-negro-solo-esim/p/MLM54107042#polycard_client=search-nordic&search_layout=stack&position=5&type=product&tracking_id=12c415b8-4d10-4e80-bf33-0bc11f18f773&wid=MLM2532633341&sid=search",
+        "posicion": 5,
+        "metodo_extraccion": {
+            "titulo": "attr_title",
+            "precio": "javascript_precio_mx",
+            "url": "tag_a"
+        },
+        "html_debug": {
+            "outer_html": "<li class=\"ui-search-layout__item\"><div class=\"ui-search-result__wrapper\"><div class=\"poly-card poly-card--list poly-card--xlarge poly-card--CORE\"><div class=\"poly-card__portada\"><div class=\"poly-component__variations-compacted\"><span class=\"andes-visually-hidden\">Disponible en 5 colores</span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#1717FF\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#FFFFFF\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#9F00FF\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__label\">5</span></div><span class=\"poly-component__image-overlay\"></span><img title=\"Apple iPhone 17 (256 GB) - Negro - Sólo eSIM\" width=\"150\" height=\"150\" aria-hidden=\"true\" decoding=\"async\" src=\"https://http2.mlstatic.com/D_Q_NP_2X_690841-MLA92147228075_092025-V.webp\" class=\"poly-component__picture\" alt=\"Apple iPhone 17 (2",
+            "class": "ui-search-layout__item"
+        }
+    },
+    {
+        "titulo": "Apple iPhone 17 Pro (512 GB) - Azul profundo - Sólo eSIM - Distribuidor Autorizado",
+        "precio": "$ 33,499",
+        "url": "https://www.mercadolibre.com.mx/apple-iphone-17-pro-512-gb-azul-profundo-solo-esim-distribuidor-autorizado/p/MLM1054106842#polycard_client=search-nordic&search_layout=stack&position=6&type=product&tracking_id=12c415b8-4d10-4e80-bf33-0bc11f18f773&wid=MLM4056114030&sid=search",
+        "posicion": 6,
+        "metodo_extraccion": {
+            "titulo": "attr_title",
+            "precio": "javascript_precio_mx",
+            "url": "tag_a"
+        },
+        "html_debug": {
+            "outer_html": "<li class=\"ui-search-layout__item\"><div class=\"ui-search-result__wrapper\"><div class=\"poly-card poly-card--list poly-card--xlarge poly-card--CORE\"><div class=\"poly-card__portada\"><div class=\"poly-component__variations-compacted\"><span class=\"andes-visually-hidden\">Disponible en 2 colores</span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#1717FF\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#FF8C00\"></span></div><span class=\"poly-component__image-overlay\"></span><img title=\"Apple iPhone 17 Pro (512 GB) - Azul profundo - Sólo eSIM - Distribuidor Autorizado\" width=\"150\" height=\"150\" aria-hidden=\"true\" decoding=\"async\" src=\"https://http2.mlstatic.com/D_Q_NP_2X_760352-MLA96418081512_102025-V.webp\" class=\"poly-component__picture\" alt=\"Apple iPhone 17 Pro (512 GB) - Azul profundo - Sólo eSIM - Distribuidor Autorizado\"></div><div class=\"poly-card__content\"><span style=\"color:#FFFFFF;background-c",
+            "class": "ui-search-layout__item"
+        }
+    },
+    {
+        "titulo": "Apple iPhone 17 Pro (1 TB) - Azul profundo - Sólo eSIM - Distribuidor Autorizado",
+        "precio": "$ 38,499",
+        "url": "https://www.mercadolibre.com.mx/apple-iphone-17-pro-1-tb-azul-profundo-solo-esim-distribuidor-autorizado/p/MLM1054106848#polycard_client=search-nordic&search_layout=stack&position=7&type=product&tracking_id=12c415b8-4d10-4e80-bf33-0bc11f18f773&wid=MLM4056152116&sid=search",
+        "posicion": 7,
+        "metodo_extraccion": {
+            "titulo": "attr_title",
+            "precio": "javascript_precio_mx",
+            "url": "tag_a"
+        },
+        "html_debug": {
+            "outer_html": "<li class=\"ui-search-layout__item\"><div class=\"ui-search-result__wrapper\"><div class=\"poly-card poly-card--list poly-card--xlarge poly-card--CORE\"><div class=\"poly-card__portada\"><div class=\"poly-component__variations-compacted\"><span class=\"andes-visually-hidden\">Disponible en 2 colores</span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#1717FF\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#FF8C00\"></span></div><span class=\"poly-component__image-overlay\"></span><img title=\"Apple iPhone 17 Pro (1 TB) - Azul profundo - Sólo eSIM - Distribuidor Autorizado\" width=\"150\" height=\"150\" aria-hidden=\"true\" decoding=\"async\" src=\"https://http2.mlstatic.com/D_Q_NP_2X_871833-MLA96869703593_102025-V.webp\" class=\"poly-component__picture\" alt=\"Apple iPhone 17 Pro (1 TB) - Azul profundo - Sólo eSIM - Distribuidor Autorizado\"></div><div class=\"poly-card__content\"><span style=\"color:#FFFFFF;background-color",
+            "class": "ui-search-layout__item"
+        }
+    },
+    {
+        "titulo": "Apple iPhone 17 Pro Max (1 TB) - Color plata - Sólo eSIM",
+        "precio": "US$ 24,000",
+        "url": "https://www.mercadolibre.com.mx/apple-iphone-17-pro-max-1-tb-color-plata-solo-esim/p/MLM54106947#polycard_client=search-nordic&search_layout=stack&position=8&type=product&tracking_id=12c415b8-4d10-4e80-bf33-0bc11f18f773&wid=MLM2534574645&sid=search",
+        "posicion": 8,
+        "metodo_extraccion": {
+            "titulo": "attr_title",
+            "precio": "javascript_precio_mx",
+            "url": "tag_a"
+        },
+        "html_debug": {
+            "outer_html": "<li class=\"ui-search-layout__item\"><div class=\"ui-search-result__wrapper\"><div class=\"poly-card poly-card--list poly-card--xlarge poly-card--CORE\"><div class=\"poly-card__portada\"><div class=\"poly-component__variations-compacted\"><span class=\"andes-visually-hidden\">Disponible en 3 colores</span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#1717FF\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#FF8C00\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#E1E1E1\"></span></div><span class=\"poly-component__image-overlay\"></span><img title=\"Apple iPhone 17 Pro Max (1 TB) - Color plata - Sólo eSIM\" width=\"150\" height=\"150\" aria-hidden=\"true\" decoding=\"async\" src=\"https://http2.mlstatic.com/D_Q_NP_2X_791363-MLA92147469767_092025-V.webp\" class=\"poly-component__picture\" alt=\"Apple iPhone 17 Pro Max (1 TB) - Color plata - Sólo eSIM\"></div><div class=\"poly",
+            "class": "ui-search-layout__item"
+        }
+    },
+    {
+        "titulo": "Apple iPhone 17 Pro Max (256 GB) - Azul profundo - Sólo eSIM",
+        "precio": "$ 31,676",
+        "url": "https://www.mercadolibre.com.mx/apple-iphone-17-pro-max-256-gb-azul-profundo-solo-esim/p/MLM54106939#polycard_client=search-nordic&search_layout=stack&position=9&type=product&tracking_id=12c415b8-4d10-4e80-bf33-0bc11f18f773&wid=MLM4308323370&sid=search",
+        "posicion": 9,
+        "metodo_extraccion": {
+            "titulo": "attr_title",
+            "precio": "javascript_precio_mx",
+            "url": "tag_a"
+        },
+        "html_debug": {
+            "outer_html": "<li class=\"ui-search-layout__item\"><div class=\"ui-search-result__wrapper\"><div class=\"poly-card poly-card--list poly-card--xlarge poly-card--CORE\"><div class=\"poly-card__portada\"><div class=\"poly-component__variations-compacted\"><span class=\"andes-visually-hidden\">Disponible en 3 colores</span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#1717FF\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#FF8C00\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#E1E1E1\"></span></div><span class=\"poly-component__image-overlay\"></span><img title=\"Apple iPhone 17 Pro Max (256 GB) - Azul profundo - Sólo eSIM\" width=\"150\" height=\"150\" aria-hidden=\"true\" decoding=\"async\" src=\"https://http2.mlstatic.com/D_Q_NP_2X_842134-MLA96871388445_102025-V.webp\" class=\"poly-component__picture\" alt=\"Apple iPhone 17 Pro Max (256 GB) - Azul profundo - Sólo eSIM\"></div><div cla",
+            "class": "ui-search-layout__item"
+        }
+    },
+    {
+        "titulo": "Apple iPhone 17 Pro (1 TB) - Naranja cósmico - Sólo eSIM",
+        "precio": "US$ 22,000",
+        "url": "https://www.mercadolibre.com.mx/apple-iphone-17-pro-1-tb-naranja-cosmico-solo-esim/p/MLM54106849#polycard_client=search-nordic&search_layout=stack&position=10&type=product&tracking_id=12c415b8-4d10-4e80-bf33-0bc11f18f773&wid=MLM4298971846&sid=search",
+        "posicion": 10,
+        "metodo_extraccion": {
+            "titulo": "attr_title",
+            "precio": "javascript_precio_mx",
+            "url": "tag_a"
+        },
+        "html_debug": {
+            "outer_html": "<li class=\"ui-search-layout__item\"><div class=\"ui-search-result__wrapper\"><div class=\"poly-card poly-card--list poly-card--xlarge poly-card--CORE\"><div class=\"poly-card__portada\"><div class=\"poly-component__variations-compacted\"><span class=\"andes-visually-hidden\">Disponible en 3 colores</span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#1717FF\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#FF8C00\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#E1E1E1\"></span></div><span class=\"poly-component__image-overlay\"></span><img title=\"Apple iPhone 17 Pro (1 TB) - Naranja cósmico - Sólo eSIM\" width=\"150\" height=\"150\" aria-hidden=\"true\" decoding=\"async\" src=\"https://http2.mlstatic.com/D_Q_NP_2X_935039-MLA95402455664_102025-V.webp\" class=\"poly-component__picture\" alt=\"Apple iPhone 17 Pro (1 TB) - Naranja cósmico - Sólo eSIM\"></div><div class=\"poly",
+            "class": "ui-search-layout__item"
+        }
+    },
+    {
+        "titulo": "Apple iPhone 17 Pro Max (512 GB) - Azul profundo",
+        "precio": "$ 36,999",
+        "url": "https://www.mercadolibre.com.mx/apple-iphone-17-pro-max-512-gb-azul-profundo/p/MLM55308673#polycard_client=search-nordic&search_layout=stack&position=11&type=product&tracking_id=12c415b8-4d10-4e80-bf33-0bc11f18f773&wid=MLM2545095883&sid=search",
+        "posicion": 11,
+        "metodo_extraccion": {
+            "titulo": "attr_title",
+            "precio": "javascript_precio_mx",
+            "url": "tag_a"
+        },
+        "html_debug": {
+            "outer_html": "<li class=\"ui-search-layout__item\"><div class=\"ui-search-result__wrapper\"><div class=\"poly-card poly-card--list poly-card--xlarge poly-card--CORE\"><div class=\"poly-card__portada\"><span class=\"poly-component__image-overlay\"></span><img title=\"Apple iPhone 17 Pro Max (512 GB) - Azul profundo\" width=\"150\" height=\"150\" aria-hidden=\"true\" decoding=\"async\" src=\"https://http2.mlstatic.com/D_Q_NP_2X_777728-MLA95525134676_102025-V.webp\" class=\"poly-component__picture\" alt=\"Apple iPhone 17 Pro Max (512 GB) - Azul profundo\"></div><div class=\"poly-card__content\"><h3 class=\"poly-component__title-wrapper\"><a href=\"https://www.mercadolibre.com.mx/apple-iphone-17-pro-max-512-gb-azul-profundo/p/MLM55308673#polycard_client=search-nordic&amp;search_layout=stack&amp;position=11&amp;type=product&amp;tracking_id=12c415b8-4d10-4e80-bf33-0bc11f18f773&amp;wid=MLM2545095883&amp;sid=search\" target=\"_self\" class=\"poly-component__title\">Apple iPhone 17 Pro Max (512 GB) - Azul profundo</a></h3><span class=\"poly-com",
+            "class": "ui-search-layout__item"
+        }
+    },
+    {
+        "titulo": "Apple iPhone 17 (512 GB) - Blanco - Sólo eSIM",
+        "precio": "US$ 20,000",
+        "url": "https://www.mercadolibre.com.mx/apple-iphone-17-512-gb-blanco-solo-esim/p/MLM54107047#polycard_client=search-nordic&search_layout=stack&position=12&type=product&tracking_id=12c415b8-4d10-4e80-bf33-0bc11f18f773&wid=MLM4299126562&sid=search",
+        "posicion": 12,
+        "metodo_extraccion": {
+            "titulo": "attr_title",
+            "precio": "javascript_precio_mx",
+            "url": "tag_a"
+        },
+        "html_debug": {
+            "outer_html": "<li class=\"ui-search-layout__item\"><div class=\"ui-search-result__wrapper\"><div class=\"poly-card poly-card--list poly-card--xlarge poly-card--CORE\"><div class=\"poly-card__portada\"><div class=\"poly-component__variations-compacted\"><span class=\"andes-visually-hidden\">Disponible en 5 colores</span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#1717FF\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#FFFFFF\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#9F00FF\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__label\">5</span></div><span class=\"poly-component__image-overlay\"></span><img title=\"Apple iPhone 17 (512 GB) - Blanco - Sólo eSIM\" width=\"150\" height=\"150\" aria-hidden=\"true\" decoding=\"async\" src=\"https://http2.mlstatic.com/D_Q_NP_2X_664470-MLA95518511179_102025-V.webp\" class=\"poly-component__picture\" alt=\"Apple iPhone 17 (",
+            "class": "ui-search-layout__item"
+        }
+    },
+    {
+        "titulo": "Apple Iphone 17 Pro Max (256 Gb) - Color Plata Solo Att&t - Plata (Reacondicionado)",
+        "precio": "$ 25,999",
+        "url": "https://www.mercadolibre.com.mx/apple-iphone-17-pro-max-256-gb--color-plata-solo-attt/up/MLMU3525434866#polycard_client=search-nordic&search_layout=stack&position=13&type=product&tracking_id=12c415b8-4d10-4e80-bf33-0bc11f18f773&wid=MLM2530969787&sid=search",
+        "posicion": 13,
+        "metodo_extraccion": {
+            "titulo": "attr_title",
+            "precio": "javascript_precio_mx",
+            "url": "tag_a"
+        },
+        "html_debug": {
+            "outer_html": "<li class=\"ui-search-layout__item\"><div class=\"ui-search-result__wrapper\"><div class=\"poly-card poly-card--list poly-card--xlarge poly-card--CORE\"><div class=\"poly-card__portada\"><span class=\"poly-component__image-overlay\"></span><img title=\"Apple Iphone 17 Pro Max (256 Gb) - Color Plata Solo Att&amp;t - Plata (Reacondicionado)\" width=\"150\" height=\"150\" aria-hidden=\"true\" decoding=\"async\" src=\"https://http2.mlstatic.com/D_Q_NP_2X_748023-MLM96519506593_102025-V.webp\" class=\"poly-component__picture\" alt=\"Apple Iphone 17 Pro Max (256 Gb) - Color Plata Solo Att&amp;t - Plata (Reacondicionado)\"></div><div class=\"poly-card__content\"><h3 class=\"poly-component__title-wrapper\"><a href=\"https://www.mercadolibre.com.mx/apple-iphone-17-pro-max-256-gb--color-plata-solo-attt/up/MLMU3525434866#polycard_client=search-nordic&amp;search_layout=stack&amp;position=13&amp;type=product&amp;tracking_id=12c415b8-4d10-4e80-bf33-0bc11f18f773&amp;wid=MLM2530969787&amp;sid=search\" target=\"_self\" class=\"poly-compo",
+            "class": "ui-search-layout__item"
+        }
+    },
+    {
+        "titulo": "Apple iPhone 17 Pro (256 GB) - Azul profundo - Sólo eSIM",
+        "precio": "$ 27,739",
+        "url": "https://www.mercadolibre.com.mx/apple-iphone-17-pro-256-gb-azul-profundo-solo-esim/p/MLM54106836#polycard_client=search-nordic&search_layout=stack&position=14&type=product&tracking_id=12c415b8-4d10-4e80-bf33-0bc11f18f773&wid=MLM2541069611&sid=search",
+        "posicion": 14,
+        "metodo_extraccion": {
+            "titulo": "attr_title",
+            "precio": "javascript_precio_mx",
+            "url": "tag_a"
+        },
+        "html_debug": {
+            "outer_html": "<li class=\"ui-search-layout__item\"><div class=\"ui-search-result__wrapper\"><div class=\"poly-card poly-card--list poly-card--xlarge poly-card--CORE\"><div class=\"poly-card__portada\"><div class=\"poly-component__variations-compacted\"><span class=\"andes-visually-hidden\">Disponible en 3 colores</span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#1717FF\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#FF8C00\"></span><span aria-hidden=\"true\" class=\"poly-variations-compacted__circle\" style=\"background-color:#E1E1E1\"></span></div><span class=\"poly-component__image-overlay\"></span><img title=\"Apple iPhone 17 Pro (256 GB) - Azul profundo - Sólo eSIM\" width=\"150\" height=\"150\" aria-hidden=\"true\" decoding=\"async\" src=\"https://http2.mlstatic.com/D_Q_NP_2X_793903-MLA95400685408_102025-V.webp\" class=\"poly-component__picture\" alt=\"Apple iPhone 17 Pro (256 GB) - Azul profundo - Sólo eSIM\"></div><div class=\"poly",
+            "class": "ui-search-layout__item"
+        }
+    },
+    {
+        "titulo": "Apple iPhone 17 Pro (256 GB) - Naranja cósmico",
+        "precio": "$ 30,899",
+        "url": "https://www.mercadolibre.com.mx/apple-iphone-17-pro-256-gb-naranja-cosmico/p/MLM55308774#polycard_client=search-nordic&search_layout=stack&position=15&type=product&tracking_id=12c415b8-4d10-4e80-bf33-0bc11f18f773&wid=MLM4222338428&sid=search",
+        "posicion": 15,
+        "metodo_extraccion": {
+            "titulo": "attr_title",
+            "precio": "javascript_precio_mx",
+            "url": "tag_a"
+        },
+        "html_debug": {
+            "outer_html": "<li class=\"ui-search-layout__item\"><div class=\"ui-search-result__wrapper\"><div class=\"poly-card poly-card--list poly-card--xlarge poly-card--CORE\"><div class=\"poly-card__portada\"><span class=\"poly-component__image-overlay\"></span><img title=\"Apple iPhone 17 Pro (256 GB) - Naranja cósmico\" width=\"150\" height=\"150\" aria-hidden=\"true\" decoding=\"async\" src=\"https://http2.mlstatic.com/D_Q_NP_2X_646997-MLA95635382122_102025-V.webp\" class=\"poly-component__picture\" alt=\"Apple iPhone 17 Pro (256 GB) - Naranja cósmico\"></div><div class=\"poly-card__content\"><h3 class=\"poly-component__title-wrapper\"><a href=\"https://www.mercadolibre.com.mx/apple-iphone-17-pro-256-gb-naranja-cosmico/p/MLM55308774#polycard_client=search-nordic&amp;search_layout=stack&amp;position=15&amp;type=product&amp;tracking_id=12c415b8-4d10-4e80-bf33-0bc11f18f773&amp;wid=MLM4222338428&amp;sid=search\" target=\"_self\" class=\"poly-component__title\">Apple iPhone 17 Pro (256 GB) - Naranja cósmico</a></h3><div class=\"poly-content\"><di",
+            "class": "ui-search-layout__item"
+        }
+    }
+]
