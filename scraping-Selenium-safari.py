@@ -35,9 +35,15 @@ def scrape_mercadolibre_safari(search_term, num_pages=1):
     script_dir = get_script_directory()
     log(f"Directorio del script: {script_dir}")
     
-    # Nombre del archivo de salida con ruta completa
+    # Crear carpeta de output para Safari si no existe
+    output_dir = os.path.join(script_dir, "output-safari")
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+        log(f"Carpeta creada: {output_dir}")
+    
+    # Nombre del archivo de salida con ruta completa en la carpeta correspondiente
     current_time = datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_filename = os.path.join(script_dir, f"productos_{search_term.replace(' ', '_')}_{current_time}.json")
+    output_filename = os.path.join(output_dir, f"productos_safari_{search_term.replace(' ', '_')}_{current_time}.json")
     log(f"Los archivos se guardarán en: {output_filename}")
     
     # Lista para almacenar los productos
@@ -58,7 +64,7 @@ def scrape_mercadolibre_safari(search_term, num_pages=1):
         time.sleep(5)  # Espera para carga completa
         
         # Guardar screenshot para diagnóstico
-        screenshot_path = os.path.join(script_dir, "pagina_mercadolibre.png")
+        screenshot_path = os.path.join(output_dir, "pagina_mercadolibre_safari.png")
         driver.save_screenshot(screenshot_path)
         log(f"Screenshot guardado como: {screenshot_path}")
         
@@ -74,7 +80,7 @@ def scrape_mercadolibre_safari(search_term, num_pages=1):
             log("No se encontró disclaimer o no se pudo cerrar")
         
         # Capturar el HTML para diagnóstico
-        source_path = os.path.join(script_dir, "source.html")
+        source_path = os.path.join(output_dir, "source_safari.html")
         page_source = driver.page_source
         with open(source_path, "w", encoding="utf-8") as f:
             f.write(page_source)
@@ -167,7 +173,7 @@ def scrape_mercadolibre_safari(search_term, num_pages=1):
                     
                     # Tomar screenshot del elemento actual para diagnóstico
                     try:
-                        product_screenshot_path = os.path.join(script_dir, f"producto_{idx+1}.png")
+                        product_screenshot_path = os.path.join(output_dir, f"producto_safari_{idx+1}.png")
                         item.screenshot(product_screenshot_path)
                         log(f"Screenshot guardado como: {product_screenshot_path}")
                     except:
@@ -504,7 +510,7 @@ def scrape_mercadolibre_safari(search_term, num_pages=1):
                     clean_data.append(clean_product)
                 
                 # Guardar versión limpia
-                clean_filename = os.path.join(script_dir, f"clean_productos_{search_term.replace(' ', '_')}_{current_time}.json")
+                clean_filename = os.path.join(output_dir, f"clean_productos_safari_{search_term.replace(' ', '_')}_{current_time}.json")
                 with open(clean_filename, 'w', encoding='utf-8') as f:
                     json.dump(clean_data, f, ensure_ascii=False, indent=4)
                 log(f"Versión limpia guardada en: {clean_filename}")
@@ -546,7 +552,7 @@ def scrape_mercadolibre_safari(search_term, num_pages=1):
             log(f"¡ADVERTENCIA! Archivo no encontrado: {output_filename}")
             
             # Intento final de guardado
-            backup_file = os.path.join(script_dir, f"backup_productos_{search_term.replace(' ', '_')}.json")
+            backup_file = os.path.join(output_dir, f"backup_productos_safari_{search_term.replace(' ', '_')}.json")
             try:
                 with open(backup_file, 'w', encoding='utf-8') as f:
                     json.dump(products_data, f, ensure_ascii=False, indent=4)
