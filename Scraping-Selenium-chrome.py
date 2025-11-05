@@ -25,9 +25,16 @@ def log(message):
 def scrape_mercadolibre_chrome(search_term, num_pages=1):
     # Obtener la ruta absoluta del directorio donde está el script o ejecutable
     base_path = os.path.dirname(os.path.abspath(__file__))
-    # Nombre del archivo de salida
+    
+    # Crear carpeta de output para Chrome si no existe
+    output_dir = os.path.join(base_path, "output-chrome")
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+        log(f"Carpeta creada: {output_dir}")
+    
+    # Nombre del archivo de salida en la carpeta correspondiente
     current_time = datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_filename = os.path.join(base_path, f"productos_chrome_{search_term.replace(' ', '_')}_{current_time}.json")
+    output_filename = os.path.join(output_dir, f"productos_chrome_{search_term.replace(' ', '_')}_{current_time}.json")
 
     
     # Lista para almacenar los productos
@@ -56,7 +63,7 @@ def scrape_mercadolibre_chrome(search_term, num_pages=1):
         time.sleep(3)  # CAMBIO: Chrome generalmente carga más rápido que Safari
         
         # Guardar screenshot para diagnóstico
-        driver.save_screenshot(os.path.join(base_path, "pagina_mercadolibre_chrome.png"))
+        driver.save_screenshot(os.path.join(output_dir, "pagina_mercadolibre_chrome.png"))
         log("Screenshot guardado como 'pagina_mercadolibre_chrome.png'")
         
         # Manejar disclaimer si aparece
@@ -157,7 +164,7 @@ def scrape_mercadolibre_chrome(search_term, num_pages=1):
                     
                     # Tomar screenshot del elemento actual para diagnóstico
                     try:
-                        item.screenshot(os.path.join(base_path, f"producto_chrome_{idx+1}.png"))
+                        item.screenshot(os.path.join(output_dir, f"producto_chrome_{idx+1}.png"))
                         log(f"Screenshot guardado como 'producto_chrome_{idx+1}.png'")
                     except:
                         log("No se pudo guardar screenshot del elemento")
@@ -495,7 +502,7 @@ def scrape_mercadolibre_chrome(search_term, num_pages=1):
                         del product["html_debug"]
                 
                 # Guardar versión limpia
-                clean_filename = f"clean_{output_filename}"
+                clean_filename = os.path.join(output_dir, f"clean_productos_chrome_{search_term.replace(' ', '_')}_{current_time}.json")
                 with open(clean_filename, 'w', encoding='utf-8') as f:
                     json.dump(saved_data, f, ensure_ascii=False, indent=4)
                 log(f"Versión limpia guardada en: {clean_filename}")
